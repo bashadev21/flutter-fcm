@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "11166693528",
+    "project_id": "pushnotification-5dce3",
+    "storage_bucket": "pushnotification-5dce3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11166693528:android:b7291ecac6556ead8678ed",
+        "android_client_info": {
+          "package_name": "com.teckzy.push_notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "11166693528-qh4e3j27038sa87e1beme01mp72bgete.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-kVA8LokH9aG6feKtQiqu6RxuAXbn0gs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "11166693528-qh4e3j27038sa87e1beme01mp72bgete.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
